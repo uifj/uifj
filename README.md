@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm [uifj] 
+
 
 **中级Flutter开发工程师 | Godot学习者 | 软件架构爱好者**  
 **Mid-Level Flutter Developer | Godot Learner | Software Architecture Enthusiast**
@@ -26,13 +26,13 @@
 
 ---
 
-### 📊 GitHub 数据统计 / GitHub Stats
+### 📊 GitHub 数据统计 / GitHub Stars
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=uifj&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uifj&layout=compact&theme=radical)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&theme=radical)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=uifj&layout=compact&theme=radical)
 
 ---
 
@@ -49,15 +49,15 @@
 
 ### 🌟 最新项目 / Recent Projects
 
-#### [项目名称] - Flutter 跨平台应用
+#### [有限风习惯追踪APP] - Flutter 跨平台应用
 - ✅ 支持 Android/iOS/HarmonyOS/macOS/Windows
 - 🚀 使用 Flutter 3.x 最新特性
 - 📱 包含响应式设计和自适应布局
 
-#### [Godot项目名称] - 2D/3D 游戏实验
+#### [Godot创意实验室] - 2D/3D 游戏实验
 - 🎮 使用 Godot 4.x 引擎开发
 - 🎨 包含自定义Shader和粒子效果
-- 🔧 使用GDScript和C#混合编程
+- 🔧 使用GDScript编程
 
 ---
 
@@ -72,9 +72,9 @@
 
 ### 📫 联系我 / Contact Me
 
-- Email: your.email@example.com
+- Email: 2126322064@qq.com
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Blog: [个人技术博客](https://yourblog.com)
+- Blog: [个人技术博客](https://blog.yxf01.top)
 
 ---
 
@@ -83,8 +83,8 @@
 - [ ] 通过高级系统架构师认证[13](@ref)
 - [ ] 发布第一款Godot游戏到Steam
 - [ ] 掌握Flutter Windows/macOS深度开发
-- [ ] 贡献开源项目(citation:6]
+- [ ] 贡献开源项目
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=uifj.uifj)
 
 **Thanks for visiting!**
