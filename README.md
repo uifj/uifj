@@ -1,5 +1,5 @@
 
-# Hi there 👋 I'm [uifj] 
+# Hi there 👋 I'm uifj. 
 
 
 **中级Flutter开发工程师 | Godot学习者 | 软件架构爱好者**  
@@ -31,8 +31,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=uifj&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uifj&layout=compact&theme=radical)
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=uifj&layout=compact&theme=radical)
 
 ---
 
