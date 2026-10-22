@@ -2,7 +2,7 @@
 # Hi there 👋 I'm uifj. 
 
 
-**中级Flutter开发工程师 | Godot学习者 | 软件架构爱好者**  
+**中级Flutter开发工程师 | 全栈开发者 | Godot学习者 | 系统架构设计师**  
 **Mid-Level Flutter Developer | Godot Learner | Software Architecture Enthusiast**
 
 ---
@@ -38,9 +38,9 @@
 
 - **中级软件设计师** - 中国计算机技术职业资格认证[9,10](@ref)  
   *Intermediate Software Designer - China Computer Technology Qualification Certification*
-- **备考高级系统架构师** (预计2025年完成)[12,13](@ref)  
+- **备考高级系统架构师** (2026年备考)[12,13](@ref)  
   *Preparing for Senior System Architect Examination (Expected 2025)*
-- **Godot游戏开发** - 目前学习实践中[7,8](@ref)  
+- **Godot（flutter）游戏开发** - 目前学习实践中[7,8](@ref)  
   *Godot Game Development - Currently learning and practicing*
 
 ---
@@ -76,12 +76,12 @@
 
 ---
 
-### 🎯 2025年目标 / 2025 Goals
+### 🎯 2026年目标 / 2026 Goals
 
 - [ ] 通过高级系统架构师认证[13](@ref)
-- [ ] 发布第一款Godot游戏到Steam
-- [ ] 掌握Flutter Windows/macOS深度开发
-- [ ] 贡献开源项目
+- [·] 创建自己的游戏项目
+- [·] 掌握Flutter Windows/macOS深度开发
+- [·] 创建开源项目
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=uifj.uifj)
 
